@@ -1,8 +1,8 @@
-Yellow everyone 👋 Welcome!
+### Yellow everyone 👋 Welcome!
 
 Since my first line of code at age 11 that I thought computer engineering would be my future, but I studied civil engineering instead! Later came Jazz.
 
-But I was always thinking about programming... So I took a code bootcamp at <Academia de Código\_> that prepared me to become a full stack developer.
+However I was always thinking about programming... So I took a coding bootcamp at <Academia de Código\_> that prepared me to become a full stack developer.
 
 Some tech stacks learned:
 
@@ -16,6 +16,7 @@ Some tech stacks learned:
 
 ...and more.
 
+--- 
 🌱 I’m currently learning Spring Framework, going deeper.
 
 🔭 Very soon, I'll study C# to get used to the .NET world and then React...
