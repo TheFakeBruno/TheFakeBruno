@@ -25,6 +25,8 @@ Some tech stacks learned:
 
 More about me at https://www.linkedin.com/in/bruno-costa-developer/
 
+![](https://komarev.com/ghpvc/?username=TheFakeBruno&color=blue&style=flat-square)
+
 <!--
 **TheFakeBruno/TheFakeBruno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
