@@ -6,7 +6,7 @@ However I was always thinking about programming... So I took a coding bootcamp a
 
 <br/>
 
-## My Skill Set
+## Some of My Skill Set
 
 ### Languages
 
