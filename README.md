@@ -1,4 +1,4 @@
-### Yellow everyone 👋 Welcome!
+### Hey everyone 👋 Welcome!
 
 Since my first line of code at age 11 that I thought computer engineering would be my future, but I studied civil engineering instead! Later came Jazz.
 
